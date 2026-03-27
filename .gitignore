@@ -1,0 +1,23 @@
+# Dataset (auto-downloaded by torchvision, no need to commit)
+data/
+
+# Model checkpoints
+best_model.pth
+
+# Output images
+*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Conda / venv
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store

@@ -1,0 +1,8 @@
+Requirements:
+pip install torch torchvision matplotlib
+
+##Usage:
+train:
+python train.py
+evaluate:
+python evaluate.py
