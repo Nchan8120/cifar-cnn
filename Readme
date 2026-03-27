@@ -1,7 +1,9 @@
+A CNN image classifier trained on the CIFAR-10 dataset using PyTorch. Classifies images into 10 categories: plane, car, bird, cat, deer, dog, frog, horse, ship, and truck.
+
 Requirements:
 pip install torch torchvision matplotlib
 
-##Usage:
+Usage:
 train:
 python train.py
 evaluate:
